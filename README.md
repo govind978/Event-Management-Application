@@ -1,134 +1,24 @@
-# EVENTO - Event Management Booking Android App
-
-<img src="https://i.imgur.com/2lVbHD2.png" width="100" height="100">
-<h3>Event Management Booking Android App.</h3>
-<br>
-<p align="center">
-<img src="https://i.imgur.com/1M7IWR5.png" width="200" height="422">
-<img src="https://i.imgur.com/T62PXd8.png" width="200" height="422">
- </p>
-<br>
-
-## What is this?
-
-Evento is an android application that is beneficial for people looking to conduct programs and functions. The main objective of Evento is a convenient method to book and view events in and around the user’s interests in the desired time. Evento is the application of project management to the creation and development of large-scale events. The process of planning and coordinating the event is usually referred to as event planning and which can include budgeting, scheduling, site selection, acquiring necessary permits, coordinating transportation and parking, arranging for speakers or entertainers, arranging decor, event security, catering, coordinating with third-party vendors, and emergency plans. The events industry now includes events of all sizes from the Olympics down to business breakfast meetings. Many industries, charitable organizations, and interest groups hold events to market themselves, build business relationships, raise money, or celebrate achievement. An event refers to a social gathering or activity, such as a festival, (for example a musical festival), a ceremony (for example a marriage), and a party (for example a birthday party …etc.). In addition, this app provides a chatting facility for smooth communication between the event manager and the client.
-
-## Features
-
-#### Login
-Both the user and event management companies can log in to the system using their registered phone number and password.
-#### Register
-To enter the system user and company should register first. Requirements of registration are first name/company name, last name, username, email id, password, and phone number.
-#### Guest
-Anyone can use the app using guest mode. But to book or chat with any event organizers, they need to log in to the application.
-#### Forgot Password
-If the user forgot the password, the user can send a reset link to the mail id to reset the password.
-#### Logout
-The user can log out from the system after their use. 
-#### Add Packages
-Companies can add their packages based on the events they hand over.
-#### Search
-Users can search packages according to appropriate events.
-#### Filter 
-The user can filter the event management companies based on their locations. Also, they can filter the companies based on rating.
-#### Select Packages
-Users can select packages based on their events.
-#### Chat option 
-This option provides users and companies to interact with each other.
-#### Book Packages
-This option provides a booking facility for users according to their needs.
-#### Ratings/Feedback
-Users can provide ratings based on their experience.
-#### View and edit profile
-Users and companies can view and edit their profiles as per their needs.
-#### Change Password
-After logging into the system, the users or companies can change their existing password by entering their old password and the new password.
-
-## Development process
-
-- Developed using Kotlin on Android Studio.
-- Used Google Firebase Authentication and Realtime DataBase.
-- Google Maps Api used for location services.
-
-## Screenshots
-This will be updated as the program evolves.
-
-#### Company Registration
-
-<br>
-<p align="center">
-<img src="https://i.imgur.com/I0ffTKE.png" width="200" height="422">
-<img src="https://i.imgur.com/1GETHxH.png" width="200" height="422">
-<img src="https://i.imgur.com/LA3qD0F.png" width="200" height="422">
- </p>
-<br>
-
-#### Edit Company Details / See Company Info / Add Packages / Booking
-
-<br>
-<p align="center">
-<img src="https://i.imgur.com/rWq0KMY.png" width="200" height="422">
-<img src="https://i.imgur.com/qBIXVYu.png" width="200" height="422">
-<img src="https://i.imgur.com/kyandpw.png" width="200" height="422">
-<img src="https://i.imgur.com/md6T6Y5.png" width="200" height="422">
-</p>
-<br>
-
-#### User Registration / Forgot Password
-
-<br>
-<p align="center">
-<img src="https://i.imgur.com/u9gZWbq.png" width="200" height="422">
-<img src="https://i.imgur.com/lbSSQcr.png" width="200" height="422">
-</p>
-<br>
-
-#### Home / Filter Companies / Company Details / Booking Confirmation
-
-<br>
-<p align="center">
-<img src="https://i.imgur.com/T62PXd8.png" width="200" height="422">
-<img src="https://i.imgur.com/Bkx9N4h.png" width="200" height="422">
-<img src="https://i.imgur.com/zXf4NEl.png" width="200" height="422">
-<img src="https://i.imgur.com/9WXQwcQ.png" width="200" height="422">
-</p>
-<br>
-
-#### Account / Edit Profile / Change Password / About Us
-
-<br>
-<p align="center">
-<img src="https://i.imgur.com/4JXUIpC.png" width="200" height="422">
-<img src="https://i.imgur.com/SaHN0sB.png" width="200" height="422">
-<img src="https://i.imgur.com/9yH9Gzj.png" width="200" height="422">
-<img src="https://i.imgur.com/JDoHiQ8.png" width="200" height="422">
-</p>
-<br>
-
-#### Chat Function
-
-<br>
-<p align="center">
-<img src="https://i.imgur.com/WAfBnYl.png" width="200" height="422">
-<img src="https://i.imgur.com/gOiECgP.png" width="200" height="422">
-</p>
-<br>
+# Event Management Booking Android App
 
 
-#### Guest Home / Guest Company Detailed Page / Guest Chat / Guest Booking / Guest Account
+# What is this?
 
-<br>
-<p align="center">
-<img src="https://i.imgur.com/T62PXd8.png" width="200" height="422">
-<img src="https://i.imgur.com/Lr7AKCb.png" width="200" height="422">
-<img src="https://i.imgur.com/bsIVsjv.png" width="200" height="422">
-<img src="https://i.imgur.com/V758Sm4.png" width="200" height="422">
-</p>
-<br>
+The Event Management Booking Application is an Android app that facilitates seamless event planning and booking. Users can register and log in using their phone number and password. They can search for event management companies, select packages, and communicate with them through the chat feature. The app allows users to provide ratings and feedback based on their experience. Companies can add their packages and manage bookings efficiently. The application incorporates features such as guest mode, password reset, profile management, and advanced search and filtering options.
 
-<br>
-<p align="center">
-<img src="https://i.imgur.com/aZLvvsi.png" width="200" height="422">
-</p>
-<br>
+# Key Functionalities:
 
+1. User and Company Registration: Users and event management companies can register with their personal details.
+2. Login and Guest Mode: Users and companies can log in using their registered phone numbers and passwords, with a guest mode available for basic app usage.
+3. Forgot Password: Users can reset their password by requesting a reset link via email.
+4. Package Management: Companies can add packages tailored to various events and manage bookings.
+5. Search and Filter: Users can search for packages based on event types, and filter companies by type of event.
+6. Package Selection and Booking: Users can select suitable packages and proceed with the booking process.
+7. Chat Functionality: Users and companies can communicate with each other through an in-app chat feature.
+8. Ratings and Feedback: Users can provide ratings and feedback to share their experiences with event management companies.
+9. Profile Management: Users and companies can view, edit, and update their profiles as needed.
+10. Change Password: Logged-in users and companies can change their passwords for enhanced security.
+# APIs Utilized:
+
+1. Firebase Authentication: Used for user registration, login, and authentication.
+2. Firebase Realtime Database: Enables real-time chat functionality between users and companies.
+3. Firebase Cloud Firestore: Stores user and company data, including profiles and package information.
